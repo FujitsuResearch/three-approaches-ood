@@ -1,0 +1,5 @@
+__pycache__
+dataset/mnist
+results
+split.py
+*.out
